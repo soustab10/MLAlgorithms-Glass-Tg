@@ -5,8 +5,6 @@
 ![Presentation 21074029 21074024-04](https://github.com/soustab10/MLAlgorithms-Glass-Tg/assets/95632583/270ce75c-38b7-4b12-97bd-cca523426593)
 ![Presentation 21074029 21074024-05](https://github.com/soustab10/MLAlgorithms-Glass-Tg/assets/95632583/f69cbf8d-9024-4d2f-b50e-241288fb0971)
 ![Presentation 21074029 21074024-06](https://github.com/soustab10/MLAlgorithms-Glass-Tg/assets/95632583/60f6ceb7-d60c-499e-9696-347d3024ba7d)
-![Presentation 21074029 21074024-07](https://github.com/soustab10/MLAlgorithms-Glass-Tg/assets/95632583/611491df-0464-483c-b870-34cd0d64a6e2)
-![Presentation 21074029 21074024-08](https://github.com/soustab10/MLAlgorithms-Glass-Tg/assets/95632583/112631ad-229b-4dc4-9df5-4ac29e85564a)
 ![Presentation 21074029 21074024-09](https://github.com/soustab10/MLAlgorithms-Glass-Tg/assets/95632583/0343060f-b747-46a3-b954-f598b8a319fa)
 ![Presentation 21074029 21074024-14](https://github.com/soustab10/MLAlgorithms-Glass-Tg/assets/95632583/4e1333da-2f96-421b-8288-954e2871236a)
 ![Presentation 21074029 21074024-15](https://github.com/soustab10/MLAlgorithms-Glass-Tg/assets/95632583/69e0679e-2900-4737-9cdc-b9f54c79a376)
